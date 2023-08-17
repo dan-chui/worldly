@@ -2,21 +2,24 @@
 import PageNav from "../components/PageNav";
 import styles from "./Product.module.css";
 
-export default function Product() {
+export default function Pricing() {
   return (
     <main className={styles.product}>
       <PageNav />
       <section>
         <div>
           <h2>
-            Simple pricing.
+            Low pricing.
             <br />
-            Just $5/month.
+            Only $5/month.
           </h2>
           <p>
-            Test run the best features of WorldWise for free! Eligible users
-            will get exclusive access to all the tools needed to memorialize
-            past adventures, and plan for your next journey.
+            Test run the best features of WorldWise for <strong>FREE</strong>!
+          </p>
+          <p>
+            Registered users will get <strong>EXCLUSIVE ACCESS</strong> to all
+            the tools needed to memorialize past adventures, and plan for your
+            next journey.
           </p>
         </div>
         <img src="img2.webp" alt="hot air balloons" />

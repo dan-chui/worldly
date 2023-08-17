@@ -8,13 +8,13 @@ export default function Homepage() {
       <PageNav />
       <section>
         <h1>
-          Explore the world.
+          Explore the World.
           <br />
-          WorldWise keeps track of your adventures.
+          WorldWise tracks your Adventures.
         </h1>
         <h2>
-          Every journey begins with a small step. Share your favorite journeys
-          with everyone far and wide.
+          Every journey begins with a small step. Share your journeys with
+          everyone far and wide.
         </h2>
         <Link to="/login" className="cta">
           Start Tracking

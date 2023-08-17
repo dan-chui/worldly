@@ -1,7 +1,12 @@
+import PageNav from "../components/PageNav";
+import styles from "./PageNotFound.module.css";
+
 export default function PageNotFound() {
   return (
-    <div>
-      <h1>Page not found 😢</h1>
-    </div>
+    <main className={styles.pagenotfound}>
+      <PageNav />
+      <h1> Oh no! The page was not found!</h1>
+      <img src="error.webp" alt="error" />
+    </main>
   );
 }
