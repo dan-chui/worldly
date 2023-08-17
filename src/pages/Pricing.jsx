@@ -11,12 +11,12 @@ export default function Product() {
           <h2>
             Simple pricing.
             <br />
-            Just $9/month.
+            Just $5/month.
           </h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae vel
-            labore mollitia iusto. Recusandae quos provident, laboriosam fugit
-            voluptatem iste.
+            Test run the best features of WorldWise for free! Eligible users
+            will get exclusive access to all the tools needed to memorialize
+            past adventures, and plan for your next journey.
           </p>
         </div>
         <img src="img2.webp" alt="hot air balloons" />
