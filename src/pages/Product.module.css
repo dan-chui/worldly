@@ -32,3 +32,8 @@
 .product section a {
   margin-top: 2rem;
 }
+
+.product strong {
+  font-size: 1.7rem;
+  color: rgb(148, 222, 37);
+}

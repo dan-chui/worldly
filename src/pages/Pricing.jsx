@@ -22,7 +22,7 @@ export default function Pricing() {
             next journey.
           </p>
         </div>
-        <img src="img2.webp" alt="hot air balloons" />
+        <img src="img1.webp" alt="hot air balloons" />
       </section>
     </main>
   );

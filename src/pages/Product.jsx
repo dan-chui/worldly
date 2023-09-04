@@ -6,7 +6,7 @@ export default function Product() {
     <main className={styles.product}>
       <PageNav />
       <section>
-        <img src="img1.webp" alt="person on a mountaintop" />
+        <img src="img2.webp" alt="person running on a bridge" />
         <div>
           <h2>About WorldWise</h2>
           <p>
@@ -18,8 +18,8 @@ export default function Product() {
             engaging and intuitive process.
           </p>
           <p>
-            Keep a journal of your journeys, and share with them with everyone
-            you care about. Don't wait - get started, NOW!
+            Keep a journal of your journeys, and share them with everyone you
+            care about. <strong>Don't wait - get started, NOW</strong>!
           </p>
         </div>
       </section>
