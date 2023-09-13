@@ -6,7 +6,7 @@ import { useAuth } from "../contexts/FakeAuthContext";
 import styles from "./Login.module.css";
 
 export default function Login() {
-  // PRE-FILL FOR DEV PURPOSES
+  // PRE-FILLED FOR TEST PURPOSES
   const [email, setEmail] = useState("dan@example.com");
   const [password, setPassword] = useState("password");
 

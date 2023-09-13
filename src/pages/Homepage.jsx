@@ -8,7 +8,7 @@ export default function Homepage() {
       <PageNav />
       <section>
         <h1>
-          Explore the World.
+          Go and Explore!
           <br />
           WorldWise tracks your Adventures.
         </h1>

@@ -40,12 +40,12 @@ export default function Gallery() {
 
           <div className={styles.img_parent}>
             <img src="g7.webp" alt="gallery-image7" />
-            <p>You are worth it.</p>
+            <p>Go for it.</p>
           </div>
 
           <div className={styles.img_parent}>
             <img src="g8.webp" alt="gallery-image8" />
-            <p>Life is short. Don't wait.</p>
+            <p>Life is short. Don't wait!</p>
           </div>
         </>
       </section>
